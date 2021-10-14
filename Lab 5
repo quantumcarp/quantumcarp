@@ -1,0 +1,61 @@
+#problem 1
+def list1_starts_with_list2(list1,list2):
+    if len(list1) >= len(list2):
+        l2=len(list2)
+        for i in range(l2):
+            if list1[i]!= list2[i]:
+                return False
+    else:
+        return False 
+    return True
+
+list1=[1,2,3,4]
+list2=[1,2,3]
+print(list1_starts_with_list2(list1,list2))
+
+#problem 2 
+def match_pattern(list1,list2):
+    for i in range(len(list1)):
+        if list1[i]==list2[0]:
+            if i+len(list2) > len(list1):
+                return False
+            found = True
+            for j in range(len(list2)):
+                if list1[i+j] != list2[j]:
+                    found = False
+                    break
+            if found:
+                return True
+    return False
+list1=[1,2,2,4,5,6]
+list2=[4,5,6,7]
+print(match_pattern(list1,list2))
+
+#Problem 3
+def repeats(list0):
+    for i in range(len(list0)-1):
+        if list0[i]==list0[i+1]:
+            return True
+    return False
+        
+
+list0=[1,2,2,4,5,6,7]
+print(repeats(list0))
+
+#Problem 4a
+def print_matrix_dim(M):
+    row = len(M)
+    col = len(M[0])
+    print("Dimension:",row,"*",col)
+M = [[1,2],[3,4],[5,6] ]
+print_matrix_dim(M)
+
+'''#Problem 4b
+def mult_M_v(M,v):
+    for i in range(len(M)):
+        for j in range(len(v[0])):
+            for k in range(len[v]):'''
+                
+                
+                   
+    
