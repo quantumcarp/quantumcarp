@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quantumcarp
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning engineering
+- 👀 I’m interested in unmanned vehicle design
+- 🌱 I’m currently learning mechanical engineering
 - 📫 How to reach me ...
 - mariaa.li@mail.utoronto.ca
 
