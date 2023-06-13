@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @quantumcarp
-- 👀 I’m interested in unmanned vehicle design
-- 🌱 I’m currently learning mechanical engineering
-- 📫 How to reach me ...
-- mariaa.li@mail.utoronto.ca
+- 👀 I’m interested in Unmanned Vehicle Design as well as game development.
+- 🌱 I’m currently learning mechanical engineering in University of Toronto.
+- 📫 How to reach me 
+      - mariaa.li@mail.utoronto.ca
 
 <!---
 quantumcarp/quantumcarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
